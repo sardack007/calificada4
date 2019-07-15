@@ -17,7 +17,7 @@ public class ColeccionCanalRadio  implements  IFColeccion{
         this.agregarItem(new CanalRadio("Radio popolare","Italiano"));
         this.agregarItem(new CanalRadio("KAMP-FM - AMP 97.1 - Los Angeles","Ingles"));
         this.agregarItem(new CanalRadio("Espace Group.","Frances"));
-        this.agregarItem(new CanalRadio("NextRadioTV.","Frances"));
+
 
     }
 
